@@ -21,19 +21,6 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.gabrieelSantoss76@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href =https://www.youtube.com/channel/UCB4g1KRzJaZb2YpkOnizHUQ>
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/biel_santos7l/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+ 
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
